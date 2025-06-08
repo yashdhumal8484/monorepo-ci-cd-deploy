@@ -24,3 +24,4 @@ jobs:
           file: ./docker/Dockerfile.backend
           push: true
           tags: yash505/user-app-backend:${{ github.sha }}
+
